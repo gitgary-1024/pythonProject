@@ -1,0 +1,15 @@
+{
+    "logo": {
+        "logo": "  _____ _   _   \n |_   _| |_| |_ \n   | | |  _  | \n   | | | | | | \n   |_| |_| |_|"
+    },
+    "database": {
+        "name": "pw_and_un.db"
+    },
+    "server": {
+        "host": "127.0.0.1",
+        "port": 8080,
+        "start": "Hello",
+        "end": "Bye",
+        "loc": "D:\\"
+    }
+}
